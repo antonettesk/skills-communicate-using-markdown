@@ -9,3 +9,7 @@ gh auth login
 $ git innit
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Learn the ins and outs of GitHub
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
